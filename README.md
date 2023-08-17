@@ -35,5 +35,5 @@
  <h3 align="left">Languages and Tools:</h3>
  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AlfiedTM&show_icons=true&locale=en&layout=compact" alt="AlfiedTM" /></p>  
  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AlfiedTM&show_icons=true&locale=en" alt="AlfiedTM" /></p>   
- <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AlfiedTM&" alt="AlfiedTM" /></p>  -->
- <p><img src="https://activity-graph.herokuapp.com/graph/?username=AlfiedTM&bg_color=0c1117&color=00883d&line=0a261f&area_color=0a261f&point=065831&area=true&hide_border=true&hide_title=false&custom_title=Contribution+Graph"/></p>
+ <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AlfiedTM&" alt="AlfiedTM" /></p> 
+<!--  <p><img src="https://activity-graph.herokuapp.com/graph/?username=AlfiedTM&bg_color=0c1117&color=00883d&line=0a261f&area_color=0a261f&point=065831&area=true&hide_border=true&hide_title=false&custom_title=Contribution+Graph"/></p> -->
