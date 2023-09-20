@@ -1,5 +1,5 @@
  <h1 align="center">Hi  👋 I am Alfred</h1> 
- <h3 align="center">A passionate software developer, open source and Information Technology enthusiast from Zambia.</h3> 
+ <h3 align="center">A passionate software developer, open source, and Information Technology enthusiast from Zambia.</h3> 
   
  <!-- <p align="center"><img src="https://github-profile-trophy.vercel.app/?username=AlfiedTM&theme=onedark" /></p>  -->
   
@@ -7,11 +7,11 @@
   
  - 🔭 I’m currently working as a Software Developer for the Zambia Revenue Authority (ZRA)
   
- - 🌱 I’m currently learning **Laravel, Lumen and Devops** 
+ - 🌱 I’m currently learning **Laravel, Dart, and flutter** 
   
  - 👯 I’m looking to collaborate on **any cool open source projects** 
  
- - 🎓 I hold a Bachelor's Degree in Computer Engineering from <a href="https://www.cbu.ac.zm/" target="blank">The Copperbelt University and Cisco Certified Network Engineer</a>
+ - 🎓 I hold a Bachelor's Degree in Computer Engineering from <a href="https://www.cbu.ac.zm/" target="blank">The Copperbelt University and I am a certified Cisco Certified Network Engineer</a>
 
   
  - 👨‍💻 All of my projects are available at [https://github.com/AlfiedTM](https://github.com/AlfiedTM) 
