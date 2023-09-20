@@ -11,7 +11,7 @@
   
  - 👯 I’m looking to collaborate on **any cool open source projects** 
  
- - 🎓 I hold a Bachelor's Degree in Computer Engineering from <a href="https://www.cbu.ac.zm/" target="_blank">The Copperbelt University and I am a certified Cisco Certified Network Engineer</a>
+ - 🎓 I hold a Bachelor's Degree in Computer Engineering from <a href="https://www.cbu.ac.zm/" target="_blank">The Copperbelt University </a> and I am a certified Cisco Certified Network Engineer
 
   
  - 👨‍💻 All of my projects are available at [https://github.com/AlfiedTM](https://github.com/AlfiedTM) 
