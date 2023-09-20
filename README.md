@@ -5,13 +5,13 @@
   
  <!-- <p align="left"> <a href="https://twitter.com/AlfiedTM" target="blank"><img src="https://img.shields.io/twitter/follow/AlfiedTM?logo=twitter&style=for-the-badge" alt="AlfiedTM" /></a> </p>  -->
   
- - 🔭 I’m currently working as a Software Developer for the Zambia Revenue Authority (ZRA)
+ - 🔭 I’m currently working as a Software Developer for the <a href="https://www.zra.org.zm/" target="_blank">Zambia Revenue Authority (ZRA)</a>
   
  - 🌱 I’m currently learning **Laravel, Dart, and flutter** 
   
  - 👯 I’m looking to collaborate on **any cool open source projects** 
  
- - 🎓 I hold a Bachelor's Degree in Computer Engineering from <a href="https://www.cbu.ac.zm/" target="blank">The Copperbelt University and I am a certified Cisco Certified Network Engineer</a>
+ - 🎓 I hold a Bachelor's Degree in Computer Engineering from <a href="https://www.cbu.ac.zm/" target="_blank">The Copperbelt University and I am a certified Cisco Certified Network Engineer</a>
 
   
  - 👨‍💻 All of my projects are available at [https://github.com/AlfiedTM](https://github.com/AlfiedTM) 
